@@ -1,0 +1,6 @@
+# Editor configs
+/.idea
+
+# Exercism files
+/*/*
+!/*/*.go
